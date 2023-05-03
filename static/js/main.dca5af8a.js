@@ -28285,7 +28285,7 @@
 					children: [
 						(0, ki.jsx)(vl, { clicked: t, setClicked: r }),
 						(0, ki.jsx)(Vn, {
-							to: '/',
+							to: 'react-restaurant/',
 							children: (0, ki.jsx)(il, {
 								className: 'logo',
 								src: n(3022)('./'.concat('logo.svg')),
@@ -28296,11 +28296,11 @@
 							children: [
 								(0, ki.jsx)(Vn, {
 									end: !0,
-									to: '/',
+									to: 'react-restaurant/',
 									children: 'Home',
 								}),
 								(0, ki.jsx)(Vn, {
-									to: '/orders',
+									to: 'react-restaurant/orders',
 									children: 'Orders',
 								}),
 							],
@@ -28308,7 +28308,7 @@
 						(0, ki.jsx)(ml, {}),
 						(0, ki.jsx)(hl, {
 							onClick: function () {
-								return o('/cart');
+								return o('react-restaurant/cart');
 							},
 						}),
 					],
