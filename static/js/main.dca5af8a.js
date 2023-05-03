@@ -17339,19 +17339,19 @@
 				'use strict';
 				e.exports =
 					n.p +
-					'static/media/burger-beef.739f5d85e0da3aa1e1e2.svg';
+					'react-restaurant/static/media/burger-beef.739f5d85e0da3aa1e1e2.svg';
 			},
 			8145: function (e, t, n) {
 				'use strict';
 				e.exports =
 					n.p +
-					'static/media/burger-bread-bottom.c89d2d6a11c1b59bdeb7.svg';
+					'react-restaurant/static/media/burger-bread-bottom.c89d2d6a11c1b59bdeb7.svg';
 			},
 			7560: function (e, t, n) {
 				'use strict';
 				e.exports =
 					n.p +
-					'static/media/burger-bread-top.c236541e7903a12e0989.svg';
+					'react-restaurant/static/media/burger-bread-top.c236541e7903a12e0989.svg';
 			},
 			5788: function (e, t, n) {
 				'use strict';
@@ -17363,7 +17363,7 @@
 				'use strict';
 				e.exports =
 					n.p +
-					'static/media/cheese.5635d303d2fac8604265.svg';
+					'react-restaurant/static/media/cheese.5635d303d2fac8604265.svg';
 			},
 			4457: function (e, t, n) {
 				'use strict';
@@ -17391,13 +17391,13 @@
 				'use strict';
 				e.exports =
 					n.p +
-					'static/media/hotdog-cheese.5635d303d2fac8604265.svg';
+					'react-restaurant/static/media/hotdog-cheese.5635d303d2fac8604265.svg';
 			},
 			6460: function (e, t, n) {
 				'use strict';
 				e.exports =
 					n.p +
-					'static/media/hotdog-lettuce.fc21fe2a1f6582ff6886.svg';
+					'react-restaurant/static/media/hotdog-lettuce.fc21fe2a1f6582ff6886.svg';
 			},
 			8103: function (e, t, n) {
 				'use strict';
@@ -17409,13 +17409,13 @@
 				'use strict';
 				e.exports =
 					n.p +
-					'static/media/leaf.5f9f3a79f9469896b5f2.svg';
+					'react-restaurant/static/media/leaf.5f9f3a79f9469896b5f2.svg';
 			},
 			8538: function (e, t, n) {
 				'use strict';
 				e.exports =
 					n.p +
-					'static/media/lettuce.fc21fe2a1f6582ff6886.svg';
+					'react-restaurant/static/media/lettuce.fc21fe2a1f6582ff6886.svg';
 			},
 			6002: function (e, t, n) {
 				'use strict';
@@ -17445,13 +17445,13 @@
 				'use strict';
 				e.exports =
 					n.p +
-					'static/media/mushroom.8a71004d26628814e2b0.svg';
+					'react-restaurant/static/media/mushroom.8a71004d26628814e2b0.svg';
 			},
 			8692: function (e, t, n) {
 				'use strict';
 				e.exports =
 					n.p +
-					'static/media/onion.bb9569c5de6e7aa3a27d.svg';
+					'react-restaurant/static/media/onion.bb9569c5de6e7aa3a27d.svg';
 			},
 			7268: function (e, t, n) {
 				'use strict';
@@ -17492,7 +17492,7 @@
 			459: function (e, t, n) {
 				'use strict';
 				e.exports =
-					n.p + 'static/media/tomato.af626ffbac8515633bcf.svg';
+					n.p + 'react-restaurant/static/media/tomato.af626ffbac8515633bcf.svg';
 			},
 			2408: function (e, t, n) {
 				'use strict';
