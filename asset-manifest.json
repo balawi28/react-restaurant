@@ -32,7 +32,7 @@
     "static/media/identity.svg": "./static/media/identity.6f527eb664a6b19a01d4f8c2b0dd8b51.svg",
     "static/media/sun.svg": "./static/media/sun.22e48268a1867a9a6e1e.svg",
     "static/media/store.svg": "./static/media/store.bf7c034285298c8b86f19fcf5128ac59.svg",
-    "index.html": "/index.html",
+    "index.html": "./index.html",
     "static/media/delivery.svg": "./static/media/delivery.b33da5bcf7b174df695fa8f6d280dc81.svg",
     "static/media/phone.svg": "./static/media/phone.7e0b0b0ee5b69381b4b1.svg",
     "static/media/box.svg": "./static/media/box.fa58f6ee935de43dfe370fa7d340c166.svg",
