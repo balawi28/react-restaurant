@@ -17339,43 +17339,43 @@
 				'use strict';
 				e.exports =
 					n.p +
-					'react-restaurant/static/media/burger-beef.739f5d85e0da3aa1e1e2.svg';
+					'static/media/burger-beef.739f5d85e0da3aa1e1e2.svg';
 			},
 			8145: function (e, t, n) {
 				'use strict';
 				e.exports =
 					n.p +
-					'react-restaurant/static/media/burger-bread-bottom.c89d2d6a11c1b59bdeb7.svg';
+					'static/media/burger-bread-bottom.c89d2d6a11c1b59bdeb7.svg';
 			},
 			7560: function (e, t, n) {
 				'use strict';
 				e.exports =
 					n.p +
-					'react-restaurant/static/media/burger-bread-top.c236541e7903a12e0989.svg';
+					'static/media/burger-bread-top.c236541e7903a12e0989.svg';
 			},
 			5788: function (e, t, n) {
 				'use strict';
 				e.exports =
 					n.p +
-					'react-restaurant/static/media/cart.dd749e3c36a238bb9713.svg';
+					'static/media/cart.dd749e3c36a238bb9713.svg';
 			},
 			6698: function (e, t, n) {
 				'use strict';
 				e.exports =
 					n.p +
-					'react-restaurant/static/media/cheese.5635d303d2fac8604265.svg';
+					'static/media/cheese.5635d303d2fac8604265.svg';
 			},
 			4457: function (e, t, n) {
 				'use strict';
 				e.exports =
 					n.p +
-					'react-restaurant/static/media/chevron-down.f97a5bb15e7a3bb12927.svg';
+					'static/media/chevron-down.f97a5bb15e7a3bb12927.svg';
 			},
 			8472: function (e, t, n) {
 				'use strict';
 				e.exports =
 					n.p +
-					'react-restaurant/static/media/delivery.b33da5bcf7b174df695f.svg';
+					'static/media/delivery.b33da5bcf7b174df695f.svg';
 			},
 			6916: function (e, t, n) {
 				'use strict';
@@ -17385,109 +17385,109 @@
 				'use strict';
 				e.exports =
 					n.p +
-					'react-restaurant/static/media/failure.bcc36e64c5b58bc005e5.svg';
+					'static/media/failure.bcc36e64c5b58bc005e5.svg';
 			},
 			595: function (e, t, n) {
 				'use strict';
 				e.exports =
 					n.p +
-					'react-restaurant/static/media/hotdog-cheese.5635d303d2fac8604265.svg';
+					'static/media/hotdog-cheese.5635d303d2fac8604265.svg';
 			},
 			6460: function (e, t, n) {
 				'use strict';
 				e.exports =
 					n.p +
-					'react-restaurant/static/media/hotdog-lettuce.fc21fe2a1f6582ff6886.svg';
+					'static/media/hotdog-lettuce.fc21fe2a1f6582ff6886.svg';
 			},
 			8103: function (e, t, n) {
 				'use strict';
 				e.exports =
 					n.p +
-					'react-restaurant/static/media/identity.6f527eb664a6b19a01d4.svg';
+					'static/media/identity.6f527eb664a6b19a01d4.svg';
 			},
 			257: function (e, t, n) {
 				'use strict';
 				e.exports =
 					n.p +
-					'react-restaurant/static/media/leaf.5f9f3a79f9469896b5f2.svg';
+					'static/media/leaf.5f9f3a79f9469896b5f2.svg';
 			},
 			8538: function (e, t, n) {
 				'use strict';
 				e.exports =
 					n.p +
-					'react-restaurant/static/media/lettuce.fc21fe2a1f6582ff6886.svg';
+					'static/media/lettuce.fc21fe2a1f6582ff6886.svg';
 			},
 			6002: function (e, t, n) {
 				'use strict';
 				e.exports =
 					n.p +
-					'react-restaurant/static/media/location.96cde9156e923a90a69e.svg';
+					'static/media/location.96cde9156e923a90a69e.svg';
 			},
 			5525: function (e, t, n) {
 				'use strict';
 				e.exports =
 					n.p +
-					'react-restaurant/static/media/logo-tiny.ab6f492a5fbcdb39b222.svg';
+					'static/media/logo-tiny.ab6f492a5fbcdb39b222.svg';
 			},
 			5111: function (e, t, n) {
 				'use strict';
 				e.exports =
 					n.p +
-					'react-restaurant/static/media/logo.17da12649b8c9bd33e02.svg';
+					'static/media/logo.17da12649b8c9bd33e02.svg';
 			},
 			1018: function (e, t, n) {
 				'use strict';
 				e.exports =
 					n.p +
-					'react-restaurant/static/media/moon.bb46e8c3ec87739803ac.svg';
+					'static/media/moon.bb46e8c3ec87739803ac.svg';
 			},
 			2494: function (e, t, n) {
 				'use strict';
 				e.exports =
 					n.p +
-					'react-restaurant/static/media/mushroom.8a71004d26628814e2b0.svg';
+					'static/media/mushroom.8a71004d26628814e2b0.svg';
 			},
 			8692: function (e, t, n) {
 				'use strict';
 				e.exports =
 					n.p +
-					'react-restaurant/static/media/onion.bb9569c5de6e7aa3a27d.svg';
+					'static/media/onion.bb9569c5de6e7aa3a27d.svg';
 			},
 			7268: function (e, t, n) {
 				'use strict';
 				e.exports =
 					n.p +
-					'react-restaurant/static/media/order.83142e56712e2ba6beb4.svg';
+					'static/media/order.83142e56712e2ba6beb4.svg';
 			},
 			8563: function (e, t, n) {
 				'use strict';
 				e.exports =
 					n.p +
-					'react-restaurant/static/media/phone.7e0b0b0ee5b69381b4b1.svg';
+					'static/media/phone.7e0b0b0ee5b69381b4b1.svg';
 			},
 			2719: function (e, t, n) {
 				'use strict';
 				e.exports =
 					n.p +
-					'react-restaurant/static/media/remove.4afaca26634fa521ffd3.svg';
+					'static/media/remove.4afaca26634fa521ffd3.svg';
 			},
 			5918: function (e, t, n) {
 				'use strict';
 				e.exports =
 					n.p +
-					'react-restaurant/static/media/store.bf7c034285298c8b86f1.svg';
+					'static/media/store.bf7c034285298c8b86f1.svg';
 			},
 			1950: function (e, t, n) {
 				'use strict';
 				e.exports =
 					n.p +
-					'react-restaurant/static/media/success.f0c7878095791557515e.svg';
+					'static/media/success.f0c7878095791557515e.svg';
 			},
 			6267: function (e, t, n) {
 				'use strict';
 				e.exports =
 					n.p +
-					'react-restaurant/static/media/sun.22e48268a1867a9a6e1e.svg';
+					'static/media/sun.22e48268a1867a9a6e1e.svg';
 			},
 			459: function (e, t, n) {
 				'use strict';
@@ -17502,13 +17502,13 @@
 				'use strict';
 				e.exports =
 					n.p +
-					'react-restaurant/static/media/user.7585c1a63ffb0e741560.svg';
+					'static/media/user.7585c1a63ffb0e741560.svg';
 			},
 			3577: function (e, t, n) {
 				'use strict';
 				e.exports =
 					n.p +
-					'react-restaurant/static/media/warning.67f77cd4f16137fe24f4.svg';
+					'static/media/warning.67f77cd4f16137fe24f4.svg';
 			},
 			1577: function (e, t, n) {
 				'use strict';
